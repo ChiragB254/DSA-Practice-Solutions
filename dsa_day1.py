@@ -1,3 +1,10 @@
+# DSA Day 1
+
+# Rotate Array
+
+# https://leetcode.com/problems/rotate-array/
+
+
 class Solution:
     def rotate(self, nums: list[int], k: int) -> None:
         """
