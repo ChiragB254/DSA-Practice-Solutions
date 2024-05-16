@@ -23,7 +23,7 @@ Ready to dive in? Here's how you can get started:
 1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
 
 ```
-$ git clone https://github.com/your-username/DSA-Practice-Solutions.git'
+$ git clone https://github.com/chiragb254/DSA-Practice-Solutions.git'
 ```
 
 2. **Add Your Solutions**: Solve a DSA problem of your choice and add your solution to the repository. Don't forget to include explanations and any relevant details.
